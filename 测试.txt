@@ -1,3 +1,7 @@
 ﻿第一次！
 new branch 测试！
+<<<<<<< HEAD
 new branch 合并测试！
+=======
+new branch 1 测试！
+>>>>>>> new-branch-1
